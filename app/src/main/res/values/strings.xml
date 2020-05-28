@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="_123">123</string>
+    <string name="board">Board</string>
+    <string name="xo1">xo1</string>
+    <string name="xo2">xo2</string>
+    <string name="xo3">xo3</string>
+    <string name="xo4">xo4</string>
+    <string name="xo6">xo6</string>
+    <string name="xo7">xo7</string>
+    <string name="xo8">xo8</string>
+    <string name="xo9">xo9</string>
+    <string name="xo5">xo5</string>
+    <string name="button2">Button2</string>
+    <string name="button1">Button1</string>
+    <string name="button3">button3</string>
+    <string name="button4">Button4</string>
+    <string name="button5">Button5</string>
+    <string name="button6">Button6</string>
+    <string name="button7">Button7</string>
+    <string name="button8">Button8</string>
+    <string name="button9">Button9</string>
+    <string name="exit">Exit</string>
+    <string name="reset">Reset</string>
+</resources>
